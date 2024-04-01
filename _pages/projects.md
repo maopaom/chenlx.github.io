@@ -23,6 +23,7 @@ horizontal: false
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
+      {% include clickable_image.html %}
     {%- endfor %}
     </div>
   </div>
@@ -30,6 +31,7 @@ horizontal: false
   <div class="grid">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
+      {% include clickable_image.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -44,6 +46,7 @@ horizontal: false
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
+      {% include clickable_image.html %}
     {%- endfor %}
     </div>
   </div>
@@ -51,6 +54,7 @@ horizontal: false
   <div class="grid">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
+      {% include clickable_image.html %}
     {%- endfor %}
   </div>
   {%- endif -%}

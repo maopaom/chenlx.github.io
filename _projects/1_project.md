@@ -7,12 +7,24 @@ importance: 1
 category: Daily
 ---
 
+
+<style>
+    .row {
+        margin-bottom: 0px; 
+    }
+    .caption {
+        margin-bottom: 50px;
+    }
+</style>
+<!-- <img src="/assets/gallery/龙华/猫1.JPG" alt="图片alt" title="图片title"> -->
+<!-- ![看得见的快捷键](/assets/gallery/龙华/猫1.JPG)   -->
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/猫1.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/猫1.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/猫2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/猫2.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
@@ -20,10 +32,10 @@ category: Daily
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/龙华2.JPG" title="sss" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/龙华2.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/龙华4.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/龙华4.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
@@ -32,7 +44,7 @@ category: Daily
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/龙华3.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/龙华3.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
@@ -41,7 +53,7 @@ category: Daily
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/龙华5.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/龙华5.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
@@ -50,9 +62,10 @@ category: Daily
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/gallery/龙华/雕塑公园.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/gallery/龙华/雕塑公园.JPG" alt="图片alt" title="图片title" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
     地铁站前的玉兰
 </div>
+
