@@ -43,4 +43,4 @@ My research interests mainly focus on:
 
 See more in the [detailed CV](https://maopaom.github.io/assets/pdf/clx.pdf).
 
-<span style="color:#008fe0"><b>I am looking for a PhD position for 2024 Fall!</b></span>
+<!-- <span style="color:#008fe0"><b>I am looking for a PhD position for 2024 Fall!</b></span> -->
