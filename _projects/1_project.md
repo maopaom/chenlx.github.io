@@ -2,7 +2,7 @@
 layout: page
 title: 2024年春游
 description: 龙华寺 -> 上海植物园 -> 静安雕塑公园
-img: assets\gallery\龙华\龙华5.JPG
+img: assets/gallery/龙华/龙华5.JPG
 importance: 1
 category: Daily
 ---
